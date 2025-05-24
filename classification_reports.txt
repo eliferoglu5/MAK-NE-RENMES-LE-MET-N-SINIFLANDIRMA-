@@ -1,0 +1,22 @@
+=== Naive Bayes Sınıflandırma Raporu ===
+              precision    recall  f1-score   support
+
+    business       0.96      0.04      0.08      1214
+    politics       0.77      1.00      0.87      7093
+      sports       0.93      0.10      0.18      1028
+
+    accuracy                           0.78      9335
+   macro avg       0.89      0.38      0.38      9335
+weighted avg       0.81      0.78      0.69      9335
+
+
+=== Logistic Regression Sınıflandırma Raporu ===
+              precision    recall  f1-score   support
+
+    business       0.82      0.33      0.47      1214
+    politics       0.83      0.98      0.90      7093
+      sports       0.88      0.34      0.49      1028
+
+    accuracy                           0.83      9335
+   macro avg       0.84      0.55      0.62      9335
+weighted avg       0.83      0.83      0.80      9335
